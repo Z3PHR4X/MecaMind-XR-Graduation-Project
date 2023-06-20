@@ -13,7 +13,7 @@
 
 <h4>Demo video:</h4>
 
-
+[![Demo video](http://img.youtube.com/vi/bVlcKrRwZE8/0.jpg)](http://www.youtube.com/watch?v=bVlcKrRwZE8E "MecaMind XR Demo (Graduation Project Creative Technology Bsc)")
 
 ## Contents 
  This repository contains base versions of objects used in my Bachelor's graduation project for Creative Technology at the University of Twente.
